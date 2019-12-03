@@ -1,0 +1,57 @@
+,month,day,attend,day_of_week,opponent,temp,skies,day_night,cap,shirt,fireworks,bobblehead
+58,AUG,20,36878,Monday,Giants,80,Clear ,Night,NO,NO,NO,NO
+62,AUG,25,40284,Saturday,Marlins,70,Clear ,Night,NO,NO,NO,NO
+56,AUG,7,55024,Tuesday,Rockies,80,Clear ,Night,NO,NO,NO,YES
+6,APR,23,26376,Monday,Braves,60,Cloudy,Night,NO,NO,NO,NO
+57,AUG,8,37084,Wednesday,Rockies,84,Clear ,Night,NO,NO,NO,NO
+27,MAY,29,51137,Tuesday,Brewers,74,Clear ,Night,NO,NO,NO,YES
+18,MAY,14,24312,Monday,Snakes,67,Clear ,Night,NO,NO,NO,NO
+35,JUN,17,53504,Sunday,White Sox,74,Clear ,Day,NO,NO,NO,NO
+49,JUL,30,33180,Monday,Snakes,73,Clear ,Night,NO,NO,NO,NO
+53,AUG,4,46588,Saturday,Cubs,73,Cloudy,Night,NO,NO,NO,NO
+25,MAY,27,33306,Sunday,Astros,70,Clear ,Day,NO,NO,NO,NO
+45,JUL,15,39715,Sunday,Padres,77,Clear ,Day,NO,NO,NO,NO
+17,MAY,13,49124,Sunday,Rockies,70,Clear ,Day,NO,NO,NO,NO
+67,SEP,2,31607,Sunday,Snakes,89,Clear ,Day,NO,NO,NO,NO
+9,APR,27,44807,Friday,Nationals,66,Clear ,Night,NO,NO,YES,NO
+36,JUN,28,49006,Thursday,Mets,75,Clear ,Night,NO,NO,NO,YES
+48,JUL,18,39955,Wednesday,Phillies,80,Cloudy,Day,NO,NO,NO,NO
+30,JUN,11,50559,Monday,Angels,68,Clear ,Night,NO,YES,NO,NO
+21,MAY,19,39383,Saturday,Cardinals,67,Clear ,Night,NO,NO,NO,NO
+52,AUG,3,43537,Friday,Cubs,73,Clear ,Night,NO,NO,YES,NO
+1,APR,11,29729,Wednesday,Pirates,58,Cloudy,Night,NO,NO,NO,NO
+28,MAY,30,25509,Wednesday,Brewers,69,Clear ,Night,NO,NO,NO,NO
+66,SEP,1,35992,Saturday,Snakes,81,Clear ,Night,NO,NO,NO,NO
+33,JUN,15,40432,Friday,White Sox,67,Clear ,Night,NO,NO,YES,NO
+5,APR,15,38359,Sunday,Padres,65,Clear ,Day,NO,NO,NO,NO
+70,SEP,5,50560,Wednesday,Padres,77,Cloudy,Night,NO,NO,NO,NO
+29,MAY,31,26773,Thursday,Brewers,70,Clear ,Night,NO,NO,NO,NO
+20,MAY,18,40906,Friday,Cardinals,64,Clear ,Night,NO,NO,YES,NO
+51,AUG,1,36596,Wednesday,Snakes,79,Clear ,Day,NO,NO,NO,NO
+75,SEP,28,37133,Friday,Rockies,77,Clear ,Night,NO,NO,YES,NO
+26,MAY,28,38016,Monday,Brewers,73,Clear ,Night,NO,NO,NO,NO
+65,AUG,31,37622,Friday,Snakes,77,Clear ,Night,NO,NO,YES,NO
+79,OCT,2,42473,Tuesday,Giants,83,Clear ,Night,NO,NO,NO,NO
+46,JUL,16,32238,Monday,Phillies,67,Clear ,Night,NO,NO,NO,NO
+24,MAY,26,36561,Saturday,Astros,61,Cloudy,Night,NO,NO,NO,NO
+54,AUG,5,42495,Sunday,Cubs,83,Clear ,Day,YES,NO,NO,NO
+22,MAY,20,44005,Sunday,Cardinals,77,Clear ,Night,NO,NO,NO,NO
+40,JUL,2,34493,Monday,Reds,70,Clear ,Night,NO,NO,NO,NO
+10,APR,28,54242,Saturday,Nationals,71,Clear ,Night,NO,NO,NO,YES
+8,APR,25,26345,Wednesday,Braves,64,Cloudy,Night,NO,NO,NO,NO
+74,SEP,16,35754,Sunday,Cardinals,86,Clear ,Day,NO,NO,NO,NO
+72,SEP,14,40167,Friday,Cardinals,85,Clear ,Night,NO,NO,YES,NO
+64,AUG,30,54621,Thursday,Snakes,80,Clear ,Night,NO,NO,NO,YES
+63,AUG,26,41907,Sunday,Marlins,81,Clear ,Day,NO,NO,NO,NO
+38,JUN,30,44217,Saturday,Mets,78,Clear ,Day,NO,NO,NO,NO
+3,APR,13,31601,Friday,Padres,54,Cloudy,Night,NO,NO,YES,NO
+61,AUG,24,39805,Friday,Marlins,71,Clear ,Night,NO,NO,YES,NO
+23,MAY,25,36283,Friday,Astros,59,Cloudy,Night,NO,NO,YES,NO
+71,SEP,13,43309,Thursday,Cardinals,80,Clear ,Night,NO,NO,NO,NO
+69,SEP,4,40619,Tuesday,Padres,78,Clear ,Night,NO,YES,NO,NO
+77,SEP,30,35607,Sunday,Rockies,95,Clear ,Day,NO,NO,NO,NO
+76,SEP,29,40724,Saturday,Rockies,84,Cloudy,Night,NO,NO,NO,NO
+2,APR,12,28328,Thursday,Pirates,57,Cloudy,Night,NO,NO,NO,NO
+73,SEP,15,42449,Saturday,Cardinals,95,Clear ,Night,NO,NO,NO,NO
+0,APR,10,56000,Tuesday,Pirates,67,Clear ,Day,NO,NO,NO,NO
+14,MAY,9,33993,Wednesday,Giants,71,Clear ,Night,NO,NO,NO,NO
